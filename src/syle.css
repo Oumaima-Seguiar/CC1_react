@@ -1,0 +1,212 @@
+ /* Dark Toggle css */
+html,body{
+    height: 100%;
+}
+.App {
+    text-align: center;
+    transition: background-color 0.3s;
+  }
+
+  /* Light mode */
+  .App,.btn-dark{
+    background-color: white;
+    color: black;
+  }
+  
+  /* Dark mode */
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  div{
+    height: 100%;
+  }
+  .btn-dark,.btn-light{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  .btn-dark {
+
+  }
+
+   /* Calc.css */
+
+
+  .clc{
+ 
+ padding-top:10px;
+ padding-bottom:10px;
+
+    width:300px;
+    height: 300px;
+    text-align: center;
+   margin-left: 40px;
+ 
+   
+   
+    
+    
+    background-color:rgb(183, 175, 175);
+   
+   
+
+  }  
+
+  input {
+    width: 60px;
+    height: 50px;
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-right: 6px;
+  
+   
+
+    
+  }
+  .text{
+   
+   width: 193px;
+   padding-left: 25px;
+   
+    background-color: #00609C;
+    color: #d9b444;
+    border-color: rgba(255, 255, 255, 0.527);
+    
+  }
+
+  .text:hover{
+ 
+  }
+
+
+  #sm{
+    background-color: #00609C;
+    color: #d9b444;
+    margin-left: 10px;
+}
+
+  #cc{
+    background: #d9b444;
+    margin-left: 7px;
+    text-align: center;
+    
+    
+}
+  
+  .button {
+    font-size: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: lightgray;
+    color: #00609C;
+
+  }
+  
+  .button:hover {
+    background-color: #ccc;
+  }
+  #sm:hover{
+    background-color: #ccc;
+  }
+  #cc:hover{
+    background-color:#67abd5 ;
+  }
+  /* Slider.css */
+/* 
+  .slider{
+    transform: rotateX('angle');
+    width: 100%;
+    height: 100%;
+    
+
+} */
+.image{
+    border-radius: 40px;
+    transition-timing-function: linear;
+    width: 60%;
+  height: 400px;
+
+}
+
+.left-arrow{
+    width: 3%;
+    height: 3%;
+    color: #00609C;
+
+ 
+     
+}
+.right-arrow{
+    width: 3%;
+    height: 3%;
+    color: #00609C;
+   
+
+}
+
+/* navbar*/
+.brand{
+  border-radius: 50%;
+ background-color: #00609C ;
+ color: lightgray;
+  height: 40px;
+  width: 40px;
+ 
+}
+
+.TP,.btnTog{
+  color: #00609C ;
+  
+ 
+}
+/* paginated.css*/
+
+    
+.div{
+  margin: auto;
+  
+}
+  .Appi {
+      text-align: center;
+      font-family: 'Arial', sans-serif;
+      width: 300px;
+      
+      
+  }
+  
+  h1 {
+  
+      color: #00609C;
+  }
+  
+  ul {
+      list-style-type: none;
+      padding: 0;
+  }
+  
+  li {
+      margin: 10px;
+      padding: 10px;
+      border: 1px solid #00609C;
+      border-radius: 4px;
+
+  }
+  li:hover{
+      background-color: rgb(234, 215, 218);
+
+  }
+  .buttonap {
+      margin: 5px;
+      padding: 10px;
+      font-size: 16px;
+      cursor: pointer;
+      background-color: #00609C;
+      color: white;
+      border-color: white;
+  }
+  
+  button:hover {
+      background-color: #5085a7;
+}

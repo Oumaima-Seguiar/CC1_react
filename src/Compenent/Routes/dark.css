@@ -1,0 +1,24 @@
+/* Styles pour le thème dark */
+
+
+html,body{
+    height: 100%;
+}
+
+div{
+    height: 100%;
+}
+
+
+/* Light mode */
+.App {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Dark mode */
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+

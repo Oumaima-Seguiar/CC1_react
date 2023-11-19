@@ -1,0 +1,50 @@
+
+
+
+h1{
+    color:#00609C ;
+    
+    text-transform: uppercase;
+    font-family: cursive;
+}
+.input{
+    border-radius: 8px ;
+    border-style: double;
+    border-color: #00609C;
+    width: 200px;
+   
+    
+}
+
+.form{
+    width: 100%;
+   
+}
+
+div p input{
+    width: 200px;
+    border-radius: 8px ;
+    border-style: double;
+    border-color: #00609C;
+    color: gray;
+
+}
+
+.btna{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 4px;
+    width: 100px;
+    background: #C5D4EB;
+    border-style: double;
+    border-color: #00609C;
+    color: rgba(0, 0, 0, 0.479);
+}
+.btn{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 4px;
+    width: 100px;
+    background: #C5D4EB;
+}
+

@@ -1,0 +1,86 @@
+
+/* .clc{
+  
+ padding-top:7px;
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+   
+    height: 100%px;
+    border-radius: 25px;
+    box-shadow: 10px red;
+
+  }
+
+  input {
+    width: 21%;
+    height: 18%;
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    border-radius: 30px;
+    padding: 0px;
+
+    
+  }
+  .text{
+    width: 65%;
+    height:16% ;
+    margin-left: 2px;
+    ;
+    background-color: rgb(93, 93, 232);
+    color: white;
+    border-color: rgba(255, 255, 255, 0.527);
+    
+  }
+
+  .text:hover{
+    background-color: #cacaca;
+  }
+
+
+  #sm{
+    background-color: rgb(93, 93, 232);
+    margin-left: 10px;
+}
+
+  #cc{
+    background: rgb(205, 145, 35);
+    margin-left: px;
+    
+    
+}
+  
+  .button {
+    font-size: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: rgb(173, 164, 164);
+    color: rgba(255, 255, 255, 0.871);
+
+  }
+  
+  .button:hover {
+    background-color: #ccc;
+  }
+  #sm:hover{
+    background-color: #ccc;
+  }
+  #cc:hover{
+    background-color:rgba(255, 166, 0, 0.358) ;
+  }
+  @media screen and (max-width: 768px) {
+    .div {
+      width: 80%; /* Adjust width for smaller screens */
+     
+    /* height: auto; /* Allow height to adjust */
+    
+  
+    /* input {
+      width: 30%;  Adjust input width 
+      font-size: 20px; /Decrease font size 
+    } */
+   
+    /*Add more adjustments for smaller screens if needed */
+  
